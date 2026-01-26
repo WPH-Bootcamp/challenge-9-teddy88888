@@ -1,0 +1,3 @@
+- [x] Add currentPage state in App.tsx
+- [x] Fix restaurants state typing to any[]
+- [x] Test the app after fixes
